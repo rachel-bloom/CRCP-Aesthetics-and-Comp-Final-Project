@@ -10,7 +10,7 @@ In the future, we imagine Azure to be an installation where audience members hav
 
 ## Instructions
 1. A
-1. B
+2. B
 
 ## Sources
 
@@ -18,4 +18,7 @@ The audio generated in Supercollider is adapted from the Gendy3 example (https:/
 
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
 
-We used Unity assets from
+We used Unity assets from:
+1. https://www.turbosquid.com/3d-models/3d-pripyat-ferris-wheel-model-1449087
+2. https://www.turbosquid.com/3d-models/redwood-trees-ferns-model-1428861
+3. 
