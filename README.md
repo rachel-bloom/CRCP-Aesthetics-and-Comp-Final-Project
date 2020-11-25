@@ -42,11 +42,11 @@ View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
 10. Press space to initiate the explosion.
 
 ### Sources
-####Audio
+#### Audio
 The audio generated in Supercollider is adapted from the Gendy3 example (https://doc.sccode.org/Classes/Gendy3.html) and Panning Strings. 
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
 
-####Unity Assets
+#### Unity Assets
 We used the following Unity assets.
 * Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
 * Explosion - https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
@@ -56,6 +56,6 @@ We used the following Unity assets.
 * Reactor - https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
 * Room - https://www.turbosquid.com/Download/L41907996/FHYKGH42P2
 
-####Images
+#### Images
 Images are pulled from the following sources.
 * Chernobyl Reactor Explosion - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fbooks%2Fla-et-jc-midnight-in-chernobyl-review-20190412-story.html&psig=AOvVaw0mflFoyu7iCraXsKfMa6Ra&ust=1606424275086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDYnPXLnu0CFQAAAAAdAAAAABAD
