@@ -1,4 +1,5 @@
-# Azure
+!(/Images/.jpg)
+*# Azure*
 
 Created by Chris Arme, Rachel Bloom, Wren Lee, and Kale Wicks
 
@@ -13,13 +14,16 @@ In the future, we imagine Azure to be an installation where audience members hav
 View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
 
 ### Instructions
-1. Download Unity https://store.unity.com/#plans-individual
-2. Download assets linked in the sources section. Some of these assets cost money
-3. Download the scripts
+1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
+  A. If you don't have an account with Unity, create a Unity ID.
+  B. Make sure you have enough storage to download Unity and the related assets.
+2. Download assets linked in the sources section. Some of these assets cost small amounts of money
+3. Download the scripts from the Explosion Scripts and Interactive Player Scripts
+4. Open Unity
+5. 
 Game object -> Create empty -> Properties -> Add character controller -> Find main camera to newly added game object -> Add a shape to see the object -> Main camera add mouse look script -> Character controller add player controller script
 Import assets
 Run the program (Play)
-
 
 ### Sources
 
@@ -28,10 +32,14 @@ The audio generated in Supercollider is adapted from the Gendy3 example (https:/
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
 
 We used the following Unity assets.
-1. Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
-2. Explosion - https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
-3. Unity Particle Pack - https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
-4. Ferris Wheel - https://www.turbosquid.com/3d-models/3d-pripyat-ferris-wheel-model-1449087
-5. Tree - https://www.turbosquid.com/3d-models/redwood-trees-ferns-model-1428861
-6. Reactor - https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
-7. Room - https://www.turbosquid.com/Download/L41907996/FHYKGH42P2
+* Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+* Explosion - https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
+* Unity Particle Pack - https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
+* Ferris Wheel - https://www.turbosquid.com/3d-models/3d-pripyat-ferris-wheel-model-1449087
+* Tree - https://www.turbosquid.com/3d-models/redwood-trees-ferns-model-1428861
+* Reactor - https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
+* Room - https://www.turbosquid.com/Download/L41907996/FHYKGH42P2
+
+Images are pulled from the following sources.
+* Chernobyl Reactor Explosion - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fbooks%2Fla-et-jc-midnight-in-chernobyl-review-20190412-story.html&psig=AOvVaw0mflFoyu7iCraXsKfMa6Ra&ust=1606424275086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDYnPXLnu0CFQAAAAAdAAAAABAD
+*
