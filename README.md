@@ -24,3 +24,4 @@ We used Unity assets from:
 3. https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
 4. https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
 5. https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
+6. https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
