@@ -16,37 +16,37 @@ View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
 
 ### Instructions
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
-  A. If you don't have an account with Unity, create a Unity ID.
-  B. Make sure you have enough storage to download Unity and the related assets.
+  1. If you don't have an account with Unity, create a Unity ID.
+  2. Make sure you have enough storage to download Unity and the related assets.
 2. Download assets linked in the sources section. Some of these assets cost small amounts of money.
 3. Download the scripts from the Explosion Scripts and Interactive Player Scripts.
 4. Launch Unity.
 5. Create a new 3D project.
   A. Rename the file and change its destination folder if you want.
 6. Before you import the other assets, create the playable character.
-  A. Create a game object in the top navigation bar.
-  B. Create empty.
-  C. Add component on the empty game object.
-  D. Add character controller.
-  E. Find main camera to newly added game object.
-  F. Add a shape component to see the object.
-  G. In the main camera area on the left hand sidebar, add mouse look script from the Interactive Player Scripts.
-  H. Add player controller scripts from the Interactive Player Scripts files.
+  1. Create a game object in the top navigation bar.
+  2. Create empty.
+  3. Add component on the empty game object.
+  4. Add character controller.
+  5. Find main camera to newly added game object.
+  6. Add a shape component to see the object.
+  7. In the main camera area on the left hand sidebar, add mouse look script from the Interactive Player Scripts.
+  8. Add player controller scripts from the Interactive Player Scripts files.
 7. Import scripts from the Explosion Scripts and Interactive Player Scripts.
-  A. Add Component -> Script.
+  1. Add Component -> Script.
 8. Import assets downloaded from sources below.
-  A. Assets -> Import New Asset.
+  1. Assets -> Import New Asset.
 8. Run the program.
-  A. File -> Build and Run.
+  1. File -> Build and Run.
 9. Use your mouse to move the player.
 10. Press space to initiate the explosion.
 
 ### Sources
-
+####Audio
 The audio generated in Supercollider is adapted from the Gendy3 example (https://doc.sccode.org/Classes/Gendy3.html) and Panning Strings. 
-
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
 
+####Unity Assets
 We used the following Unity assets.
 * Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
 * Explosion - https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
@@ -56,5 +56,6 @@ We used the following Unity assets.
 * Reactor - https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
 * Room - https://www.turbosquid.com/Download/L41907996/FHYKGH42P2
 
+####Images
 Images are pulled from the following sources.
 * Chernobyl Reactor Explosion - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fbooks%2Fla-et-jc-midnight-in-chernobyl-review-20190412-story.html&psig=AOvVaw0mflFoyu7iCraXsKfMa6Ra&ust=1606424275086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDYnPXLnu0CFQAAAAAdAAAAABAD
