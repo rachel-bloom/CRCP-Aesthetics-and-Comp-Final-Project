@@ -16,30 +16,30 @@ View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
 
 ### Instructions
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
-  * If you don't have an account with Unity, create a Unity ID.
-  * Make sure you have enough storage to download Unity and the related assets.
+   * If you don't have an account with Unity, create a Unity ID.
+   * Make sure you have enough storage to download Unity and the related assets.
 2. Download assets linked in the sources section. Some of these assets cost small amounts of money.
 3. Download the scripts from the Explosion Scripts and Interactive Player Scripts.
 4. Launch Unity.
 5. Create a new 3D project.
-  A. Rename the file and change its destination folder if you want.
+   * Rename the file and change its destination folder if you want.
 6. Before you import the other assets, create the playable character.
-  * Create a game object in the top navigation bar.
-  * Create empty.
-  * Add component on the empty game object.
-  * Add character controller.
-  * Find main camera to newly added game object.
-  * Add a shape component to see the object.
-  * In the main camera area on the left hand sidebar, add mouse look script from the Interactive Player Scripts.
-  * Add player controller scripts from the Interactive Player Scripts files.
+   * Create a game object in the top navigation bar.
+   * Create empty.
+   * Add component on the empty game object.
+   * Add character controller.
+   * Find main camera to newly added game object.
+   * Add a shape component to see the object.
+   * In the main camera area on the left hand sidebar, add mouse look script from the Interactive Player Scripts.
+   * Add player controller scripts from the Interactive Player Scripts files.
 7. Import scripts from the Explosion Scripts and Interactive Player Scripts.
-  * Add Component -> Script.
+   * Add Component -> Script.
 8. Import assets downloaded from sources below.
-  * Assets -> Import New Asset.
-8. Run the program.
-  * File -> Build and Run.
-9. Use your mouse to move the player.
-10. Press space to initiate the explosion.
+   * Assets -> Import New Asset.
+9. Run the program.
+   * File -> Build and Run.
+10. Use your mouse to move the player.
+11. Press space to initiate the explosion.
 
 ### Sources
 #### Audio
