@@ -1,4 +1,4 @@
-![Image of Chernobyl reactor with text saying "Azure" in the bottom left hand corner](/assets/Images/chernobyl_reactor_explosion.jpeg)
+!(https://ca-times.brightspotcdn.com/dims4/default/4a0fc3d/2147483647/strip/true/crop/1810x1018+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcd%2F68%2F90d7483dd5739249937653ff44dd%2Fla-1555089214-yatzjfbvxd-snap-image)
 
 # Azure
 
