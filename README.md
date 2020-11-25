@@ -18,13 +18,28 @@ View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
   A. If you don't have an account with Unity, create a Unity ID.
   B. Make sure you have enough storage to download Unity and the related assets.
-2. Download assets linked in the sources section. Some of these assets cost small amounts of money
-3. Download the scripts from the Explosion Scripts and Interactive Player Scripts
-4. Open Unity
-5. 
-Game object -> Create empty -> Properties -> Add character controller -> Find main camera to newly added game object -> Add a shape to see the object -> Main camera add mouse look script -> Character controller add player controller script
-Import assets
-Run the program (Play)
+2. Download assets linked in the sources section. Some of these assets cost small amounts of money.
+3. Download the scripts from the Explosion Scripts and Interactive Player Scripts.
+4. Launch Unity.
+5. Create a new 3D project.
+  A. Rename the file and change its destination folder if you want.
+6. Before you import the other assets, create the playable character.
+  A. Create a game object in the top navigation bar.
+  B. Create empty.
+  C. Add component on the empty game object.
+  D. Add character controller.
+  E. Find main camera to newly added game object.
+  F. Add a shape component to see the object.
+  G. In the main camera area on the left hand sidebar, add mouse look script from the Interactive Player Scripts.
+  H. Add player controller scripts from the Interactive Player Scripts files.
+7. Import scripts from the Explosion Scripts and Interactive Player Scripts.
+  A. Add Component -> Script.
+8. Import assets downloaded from sources below.
+  A. Assets -> Import New Asset.
+8. Run the program.
+  A. File -> Build and Run.
+9. Use your mouse to move the player.
+10. Press space to initiate the explosion.
 
 ### Sources
 
@@ -43,4 +58,3 @@ We used the following Unity assets.
 
 Images are pulled from the following sources.
 * Chernobyl Reactor Explosion - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fbooks%2Fla-et-jc-midnight-in-chernobyl-review-20190412-story.html&psig=AOvVaw0mflFoyu7iCraXsKfMa6Ra&ust=1606424275086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDYnPXLnu0CFQAAAAAdAAAAABAD
-*
