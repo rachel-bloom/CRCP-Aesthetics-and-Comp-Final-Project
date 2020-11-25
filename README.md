@@ -9,9 +9,17 @@ The visual limitations are compounded with the sonification of before and after 
 Through Azure, we encourage the audience to critically think about humanity’s negative impact on nature and in what ways the absence of human intervention might affect nature’s resurgence.
 In the future, we imagine Azure to be an installation where audience members have free-range in exploring the sights and sounds of Pripyat before and after the Chernobyl disaster.
 
+### Videos
+View Azure in all of its glory - https://youtu.be/x-UsH5uvQj8
+
 ### Instructions
-1. Download the FILE
-2. Play the file
+1. Download Unity https://store.unity.com/#plans-individual
+2. Download assets linked in the sources section. Some of these assets cost money
+3. Download the scripts
+Game object -> Create empty -> Properties -> Add character controller -> Find main camera to newly added game object -> Add a shape to see the object -> Main camera add mouse look script -> Character controller add player controller script
+Import assets
+Run the program (Play)
+
 
 ### Sources
 
