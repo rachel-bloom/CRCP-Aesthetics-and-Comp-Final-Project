@@ -1,6 +1,6 @@
 !(assets/Images/Azure.jpg)
 
-*# Azure*
+# Azure
 
 Created by Chris Arme, Rachel Bloom, Wren Lee, and Kale Wicks
 
