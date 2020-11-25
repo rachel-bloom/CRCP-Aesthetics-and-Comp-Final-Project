@@ -1,4 +1,4 @@
-![Image of Chernobyl reactor with text saying "Azure" in the bottom left hand corner](/assets/Images/Azure.jpg)
+![Image of Chernobyl reactor with text saying "Azure" in the bottom left hand corner](/assets/Images/chernobyl_reactor_explosion.jpeg)
 
 # Azure
 
