@@ -19,10 +19,11 @@ The audio generated in Supercollider is adapted from the Gendy3 example (https:/
 
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
 
-We used Unity assets from:
-1. https://www.turbosquid.com/3d-models/3d-pripyat-ferris-wheel-model-1449087
-2. https://www.turbosquid.com/3d-models/redwood-trees-ferns-model-1428861
-3. https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
-4. https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
-5. https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
-6. https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
+We used the following Unity assets.
+1. Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+2. Explosion - https://www.gabrielaguiarprod.com/product-page/shader-graph-nuke-explosion-project
+3. Unity Particle Pack - https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
+4. Ferris Wheel - https://www.turbosquid.com/3d-models/3d-pripyat-ferris-wheel-model-1449087
+5. Tree - https://www.turbosquid.com/3d-models/redwood-trees-ferns-model-1428861
+6. Reactor - https://assetstore.unity.com/packages/3d/environments/industrial/chernobyl-reactor-4-hdrp-and-pbr-workflow-150520
+7. Room - https://www.turbosquid.com/Download/L41907996/FHYKGH42P2
