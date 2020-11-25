@@ -2,18 +2,18 @@
 
 Created by Chris Arme, Rachel Bloom, Wren Lee, and Kale Wicks
 
-## About
+### About
 
 Azure is an instrument that examines humankind’s relationship with animals and human-made destruction through the lens of the Chernobyl disaster. This instrument combines Unity and SuperCollider, allowing audience members to watch and listen as the reactors overload and explode on screen in a cacophony of sight and sound. The Unity component is simultaneously interactive by allowing the audience to move their in-game avatar and engage the explosion and not interactive by keeping the audience trapped in a room with no way to stop the disaster or save those involved. 
 The visual limitations are compounded with the sonification of before and after the disaster modeled on data. Before the explosion, the audience is immersed in the ominous audio of a clicking Geiger counter. The explosion is triggered by the audience, implying humans' role in the Chernobyl disaster. But the audience is also trapped in a room, unable to do anything after the explosion occurs. After the disaster, humans left the area, allowing animals to return as signified by the howling of the growing wolf populations evidenced by a study analyzing animal populations in Pripyat post-diaster. Audience members can listen to how the landscape changed after the reactors exploded. 
 Through Azure, we encourage the audience to critically think about humanity’s negative impact on nature and in what ways the absence of human intervention might affect nature’s resurgence.
 In the future, we imagine Azure to be an installation where audience members have free-range in exploring the sights and sounds of Pripyat before and after the Chernobyl disaster.
 
-## Instructions
+### Instructions
 1. Download the FILE
 2. Play the file
 
-## Sources
+### Sources
 
 The audio generated in Supercollider is adapted from the Gendy3 example (https://doc.sccode.org/Classes/Gendy3.html) and Panning Strings. 
 
