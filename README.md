@@ -14,7 +14,9 @@ In the future, we imagine Azure to be an installation where audience members hav
 ### Videos
 View Azure in all of its glory - https://youtu.be/2mBwImzCv6c
 
-### Instructions
+### Instructions to Play Azure
+
+### Instructions to Make Your Own Azure
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
    * If you don't have an account with Unity, create a Unity ID.
    * Make sure you have enough storage to download Unity and the related assets.
