@@ -4,25 +4,26 @@
 
 Created by Chris Arme, Rachel Bloom, Wren Lee, and Kale Wicks
 
-### About
+## About
 
 Azure is an instrument that examines humankind’s relationship with animals and human-made destruction through the lens of the Chernobyl disaster. This instrument combines Unity and SuperCollider, allowing audience members to watch and listen as the reactors overload and explode on screen in a cacophony of sight and sound. The Unity component is simultaneously interactive by allowing the audience to move their in-game avatar and engage the explosion and not interactive by keeping the audience trapped in a room with no way to stop the disaster or save those involved. 
 The visual limitations are compounded with the sonification of before and after the disaster modeled on data. Before the explosion, the audience is immersed in the ominous audio of a clicking Geiger counter. The explosion is triggered by the audience, implying humans' role in the Chernobyl disaster. But the audience is also trapped in a room, unable to do anything after the explosion occurs. After the disaster, humans left the area, allowing animals to return as signified by the howling of the growing wolf populations evidenced by a study analyzing animal populations in Pripyat post-diaster. Audience members can listen to how the landscape changed after the reactors exploded. 
 Through Azure, we encourage the audience to critically think about humanity’s negative impact on nature and in what ways the absence of human intervention might affect nature’s resurgence.
 In the future, we imagine Azure to be an installation where audience members have free-range in exploring the sights and sounds of Pripyat before and after the Chernobyl disaster.
 
-### Videos
+## Videos
 View Azure in all of its glory - https://youtu.be/2mBwImzCv6c
 
-### Instructions to Play Azure
-1. Download the repository to your device.
+## Instructions to Play Azure
+1. Download the repository to your device (using tools such as clone https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 2. Extract the file.
-3. Open the folder corrisponding to your operating system, either Mac OS or Windows.
+3. Open the folder corresponding to your operating system, either Mac OS or Windows.
 4. Run the executable named "Chernobyl".
 5. Control the player using the WASD keys to move, and the mouse to look around.
 6. Press space to initiate the explosion.
+7. Enjoy.
 
-### Instructions to Make Your Own Azure
+## Instructions to Make Your Own Azure
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
    * If you don't have an account with Unity, create a Unity ID.
    * Make sure you have enough storage to download Unity and the related assets.
@@ -49,7 +50,7 @@ View Azure in all of its glory - https://youtu.be/2mBwImzCv6c
 10. Use your mouse to move the player.
 11. Press space to initiate the explosion.
 
-### Sources
+## Sources
 #### Audio
 The audio generated in Supercollider is adapted from the Gendy3 example (https://doc.sccode.org/Classes/Gendy3.html) and Panning Strings. 
 The Geiger counter data is from http://www.chernobylgallery.com/chernobyl-disaster/radiation-levels/. The wolf data is from https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/fee.1227?saml_referrer.
