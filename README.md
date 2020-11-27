@@ -12,7 +12,7 @@ Through Azure, we encourage the audience to critically think about humanity’s 
 In the future, we imagine Azure to be an installation where audience members have free-range in exploring the sights and sounds of Pripyat before and after the Chernobyl disaster.
 
 ### Videos
-View Azure in all of its glory - 
+View Azure in all of its glory - https://youtu.be/2mBwImzCv6c
 
 ### Instructions
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
