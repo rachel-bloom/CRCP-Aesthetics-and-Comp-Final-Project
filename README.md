@@ -15,6 +15,12 @@ In the future, we imagine Azure to be an installation where audience members hav
 View Azure in all of its glory - https://youtu.be/2mBwImzCv6c
 
 ### Instructions to Play Azure
+1. Download the repository to your device.
+2. Extract the file.
+3. Open the folder corrisponding to your operating system, either Mac OS or Windows.
+4. Run the executable named "Chernobyl".
+5. Control the player using the WASD keys to move, and the mouse to look around.
+6. Press space to initiate the explosion.
 
 ### Instructions to Make Your Own Azure
 1. Download the game engine Unity onto your device if you don't have it downloaded already. This link gets you access to the free Unity accounts. https://store.unity.com/#plans-individual
